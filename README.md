@@ -1,1 +1,2 @@
-# U.S.-Month-Retail-Sales-Prediction-R-
+# U.S. Month Retail Sales Prediction 
+# Time Series Forecast Model (R)
